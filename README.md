@@ -1,6 +1,8 @@
 
 # NaiWatches 90s Multi-Agent Movie Guide
 
+https://ai.studio/apps/drive/1w2TU4PYNLErfDyFush59dZ1aZ3W2f9xr
+
 ## Use Case & Rationale
 **Chosen Use Case**: Entertainment Recommendation & Curation.
 **Rationale**: In a single-agent setup, an LLM often hallucinations movie ratings. NaiWatches uses a collaborative grid of 5 specialized agents to ensure research-grounded, peer-reviewed movie plans.
